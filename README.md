@@ -13,4 +13,4 @@ Also includes various useful tools for working with the rigs.
 
 Currently only Blender 2.79 compatible, might update to modern api later, idk.
 
-<pre>                                                     <img src="./smashbones279.png" alt="smashbones279"></pre>
+<pre>                                          <img src="./smashbones279.png" alt="smashbones279"></pre>
