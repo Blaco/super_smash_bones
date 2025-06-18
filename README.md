@@ -12,5 +12,3 @@ Conversion is non-destructive and can cycle back and forth on demand. \
 Also includes various useful tools for working with the rigs.  Comes with [Pose Bone Transforms](https://github.com/Blaco/Pose-Bone-Transforms/)
 
 Currently only Blender 2.79 compatible, might update to modern api later, idk.
-
-<pre>                                       <img src="./smashbones279.png" alt="smashbones279"></pre>
