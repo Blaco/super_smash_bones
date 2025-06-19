@@ -38,7 +38,7 @@ The bonemap tuples can be expanded to include more and more fighters and mapping
         ]
     ),
 ```
-ClavicleC and LegC tell the plugin if the Wii U skeleton have those bones. (Link doesn't, so we remove them during Wii U conversion) \
+ClavicleC and LegC tells the plugin if the Ulti skeleton has those bones. (Link doesn't, so we skip creating them during Ulti conversion) \
 Both Half Life/Gmod and TF2 style Valve Biped naming schemas are supported. **The index order is: (HL2, TF2, SSB4, SSBU)**
 
 ## Installation
