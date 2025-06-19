@@ -16,8 +16,7 @@ The plugin uses a bonemap file to record a fighter's Wii U and Ultimate bone nam
 
 Currently I have completed the 'Common' biped/system bones, and the following characters:   **Link**   **Palutena**   **Zelda**
 
-Mapping every single fighter's unique bones is a significant task that I probably won't do myself, but it is very easy to do it yourself if you decide you want the functionality for a new fighter, since you only need to add bones unique to the fighter (i.e. bones not already in 'Common') \
-The bonemap tuples can be expanded to include more and more fighters and mappings without any issue.
+Mapping every single fighter's unique bones is a significant task that I probably won't do myself, but it is very easy to do it yourself if you decide you want the functionality for a new fighter, since you only need to add bones unique to the fighter (i.e. bones not already in 'Common') The bonemap tuples can be expanded to include more and more fighters and mappings without any issue.
 
 ### For example, Link only required mappings for his equipment, and nothing else:
 ```
