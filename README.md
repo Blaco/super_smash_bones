@@ -39,7 +39,7 @@ The bonemap tuples can be expanded to include more and more fighters and mapping
     ),
 ```
 ClavicleC and LegC tells the plugin if it should create these bones if they are missing during Ultimate conversion. \
-Both HL2/Gmod and TF2 style Valve Biped naming schemas are supported. **The index order is: (HL2, TF2, SSB4, SSBU)**
+Both HL2/Gmod and TF2 style Valve Biped names are supported. **The index order is: (HL2, TF2, SSB4, SSBU)**
 
 ## Installation
     1. Go to Code > Download Zip
