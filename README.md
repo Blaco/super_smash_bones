@@ -11,9 +11,9 @@ Blender 2.79 plugin that automatically converts Smash Bros. character rigs betwe
 Conversion is non-destructive and can cycle back and forth on demand. \
 Also includes various useful tools for working with the rigs.  Comes with [Pose Bone Transforms](https://github.com/Blaco/Pose-Bone-Transforms/)
 
-## The primary purpose of this plugin is to quickly and effortlessly port animations and models both between Smash 4 and Smash Ultimate, and also out of Blender for use in Source. Wii U models can be turned into Ultimate models in a single click and vice-versa. Embedded tools let you fix import issues and retarget animations to other rigs with a simple, easy to use interface.
+### The primary purpose of this plugin is to quickly and effortlessly port animations and models both between Smash 4 and Smash Ultimate, and also out of Blender for use in Source. Wii U models can be turned into Ultimate models in a single click and vice-versa. Embedded tools let you fix import issues and retarget animations to other rigs with a simple, easy to use interface.
 
-## Bonemaps:
+# Bonemaps:
 The plugin uses a bonemap file to record a fighter's Wii U and Ultimate bone names, and also assign Valve biped names to unique bones that do not appear on other characters. Most common bones will be tagged just by using the 'Common' group, but to truly tag every single bone on a character and fully convert their rig, the bonemap must be filled in with their unique bone names and it must be the **'Active Fighter'** in the tool window while performing conversion operations.
 
 Currently I have completed the 'Common' biped/system bones, and the following characters:   **Link**   **Palutena**   **Zelda**
